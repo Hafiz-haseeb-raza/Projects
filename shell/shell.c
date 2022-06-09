@@ -1,11 +1,6 @@
 /*
-*  Video Lecture: 22
-*  Programmer: Arif Butt
-*  Course: System Programming with Linux
-*  temp4.c: It executes another program of user choice using execvp()
-*  This program overcomes the limitation of asking the user the number
-*  of arguments that a user wants to give with a command
-*  rather input a string character by character, tokenize it
+*  It executes another program of user choice using execvp()
+*  Inputs a string character by character, tokenize it
 *  and then calls execvp
 *  Limitations:
 *   if user press enter without any input the program gives sigsegv 
