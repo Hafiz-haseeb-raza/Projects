@@ -1,0 +1,9 @@
+{
+  "blogs" :[
+    {"name":"haseeb","body":"blabla","id":1},
+    {"name":"name","body":"blabla","id":2},
+    {"name":"raza","body":"blabla","id":3}
+
+  ]
+   
+}
